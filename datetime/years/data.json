@@ -1,0 +1,60 @@
+{
+    "calendar": {
+        "year": 1,
+        "season": 4,
+        "month": 12,
+        "week": 52,
+        "day": 365,
+        "hour": 8760,
+        "minute": 525600,
+        "second": 31536000,
+        "leap": {
+            "year": 1,
+            "season": 4,
+            "month": 12,
+            "week": 52,
+            "day": 366,
+            "hour": 8784,
+            "minute": 527040,
+            "second": 31622400
+        },
+        "julian": {
+            "year": 1,
+            "season": 4,
+            "month": 12,
+            "week": 52,
+            "day": 365.25,
+            "hour": 8766,
+            "minute": 525960,
+            "second":  31557600
+        },
+        "gregorian": {
+            "year": 1,
+            "season": 4,
+            "month": 12,
+            "week": 52,
+            "day": 365.2425,
+            "hour": 8765.82,
+            "minute": 525949.2,
+            "second": 31556952
+        }
+    },
+    "academic": {
+        "year": 1,
+        "season": 2,
+        "month": 8,
+        "week": 28,
+        "day": 180,
+        "hour": 4320,
+        "minute": 259200,
+        "second": 15552000
+    },
+    "fiscal": {
+        "start": 7,
+        "end": 6,
+        "federal": {
+            "start": 10,
+            "end": 9
+        }
+    }
+}

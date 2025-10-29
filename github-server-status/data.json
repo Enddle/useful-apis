@@ -1,8 +1,4 @@
-[
-    {
-        "status": "ok"
-    },
-    {
-        "message": "GitHub server seems fine!"
-    }
-]
+{
+    "status": "ok",
+    "message": "GitHub server seems fine!"
+}

@@ -1,0 +1,156 @@
+[
+    {
+        "id": 0,
+        "name": "January",
+        "length": {
+            "month": 1,
+            "day": 31,
+            "hour": 744,
+            "minute": 44640,
+            "second": 2678400
+        },
+        "repeat": 12
+    },
+    {
+        "id": 1,
+        "name": "February",
+        "length": {
+            "month": 1,
+            "day": 28,
+            "hour": 672,
+            "minute": 40320,
+            "second": 2419200
+        },
+        "repeat": 12,
+        "leap": {
+            "length": {
+                "month": 1,
+                "day": 29,
+                "hour": 696,
+                "minute": 41760,
+                "second": 2505600
+            },
+            "repeat": 48
+        }
+    },
+    {
+        "id": 2,
+        "name": "March",
+        "length": {
+            "month": 1,
+            "day": 31,
+            "hour": 744,
+            "minute": 44640,
+            "second": 2678400
+        },
+        "repeat": 12
+    },
+    {
+        "id": 3,
+        "name": "April",
+        "length": {
+            "month": 1,
+            "day": 30,
+            "hour": 720,
+            "minute": 43200,
+            "second": 2592000
+        },
+        "repeat": 12
+    },
+    {
+        "id": 4,
+        "name": "May",
+        "length": {
+            "month": 1,
+            "day": 31,
+            "hour": 744,
+            "minute": 44640,
+            "second": 2678400
+        },
+        "repeat": 12
+    },
+    {
+        "id": 5,
+        "name": "June",
+        "length": {
+            "month": 1,
+            "day": 30,
+            "hour": 720,
+            "minute": 43200,
+            "second": 2592000
+        },
+        "repeat": 12
+    },
+    {
+        "id": 6,
+        "name": "July",
+        "length": {
+            "month": 1,
+            "day": 31,
+            "hour": 744,
+            "minute": 44640,
+            "second": 2678400
+        },
+        "repeat": 12
+    },
+    {
+        "id": 7,
+        "name": "August",
+        "length": {
+            "month": 1,
+            "day": 31,
+            "hour": 744,
+            "minute": 44640,
+            "second": 2678400
+        },
+        "repeat": 12
+    },
+    {
+        "id": 8,
+        "name": "September",
+        "length": {
+            "month": 1,
+            "day": 30,
+            "hour": 720,
+            "minute": 43200,
+            "second": 2592000
+        },
+        "repeat": 12
+    },
+    {
+        "id": 9,
+        "name": "October",
+        "length": {
+            "month": 1,
+            "day": 31,
+            "hour": 744,
+            "minute": 44640,
+            "second": 2678400
+        },
+        "repeat": 12
+    },
+    {
+        "id": 10,
+        "name": "November",
+        "length": {
+            "month": 1,
+            "day": 30,
+            "hour": 720,
+            "minute": 43200,
+            "second": 2592000
+        },
+        "repeat": 12
+    },
+    {
+        "id": 11,
+        "name": "December",
+        "length": {
+            "month": 1,
+            "day": 31,
+            "hour": 744,
+            "minute": 44640,
+            "second": 2678400
+        },
+        "repeat": 12
+    }
+]

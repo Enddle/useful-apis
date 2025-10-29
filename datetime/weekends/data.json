@@ -1,0 +1,24 @@
+[
+    {
+        "id": 0,
+        "name": "Saturday",
+        "length": {
+            "day": 1,
+            "hour": 24,
+            "minute": 1440,
+            "second": 86400
+        },
+        "repeat": 7
+    },
+    {
+        "id": 1,
+        "name": "Sunday",
+        "length": {
+            "day": 1,
+            "hour": 24,
+            "minute": 1440,
+            "second": 86400
+        },
+        "repeat": 7
+    }
+]
