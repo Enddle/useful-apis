@@ -35,3 +35,7 @@ A collection of useful\* APIs
 - Adams, Douglas. (1979). *The Hitchhiker's Guide to the Galaxy*.
 
 - [LARGE NUMBERS - 2^276,709](https://sites.google.com/site/largenumbers/home/appendix/a/ulnl/2276709)
+
+### Disclaimer
+
+<small> \* The term "useful" refers to individual benefits and may vary from person to person based on personal circumstances, goals, and needs. This product or service is designed to provide assistance, but results cannot be guaranteed. Results may vary depending on individual factors. Always consult with a professional before making any decisions based on this API.
